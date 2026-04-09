@@ -959,7 +959,7 @@ footer {
   #sobre { grid-template-columns: 1fr; padding: 60px 32px; margin-top: 0; border-radius: 0; }
   .method-header { grid-template-columns: 1fr; gap: 24px; }
   .method-steps { grid-template-columns: 1fr; }
-  .entregas-grid { grid-template-columns: 1fr 1fr; }
+  .entregas-grid { grid-template-columns: 1fr; }
   .equipe-header { grid-template-columns: 1fr; gap: 24px; }
   .team-grid { grid-template-columns: 1fr; }
   .planos-grid { grid-template-columns: 1fr; }
